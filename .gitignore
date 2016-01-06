@@ -1,4 +1,4 @@
-*.png
+
 *.pyc
 mesh/*.pyc
 rwg/*.pyc
