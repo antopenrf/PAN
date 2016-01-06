@@ -36,7 +36,7 @@ Select mesh to plot: (1)dipole (2)dual stubs (3)patch
 ```
 
 **Examples:**
-For simulating the dual stubs, use poly moudle to create the polygon as shown in demo_dualstubs.py.
+For simulating the dual stubs, use poly module to create the polygon as shown in demo_dualstubs.py.
 
 ```
 >python demo_dualstubs.py
