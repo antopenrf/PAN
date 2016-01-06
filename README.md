@@ -23,15 +23,16 @@ PAN is the MoM (metchod of moment) Electromagnetic Numerical code for simlating 
 git clone https://github.com/antopenrf/mom.git
 ```
 
-2. Start the demos.
+2. Start the demo for half-wavelength dipole.  The simulated directivity is 2.08 dB, close to the theoretical number, 2.15dB.
 ```
 >cd PAN
 >python demo_dipole.py
 .
 .
->TRP = 0.00866872915467 Watt, D = 1.61421250962, 2.07960708626 dB
+>TRP = 0.00866872915467 Watt, D = 1.61421250962, 2.07960708626 dB 
 >python demo_plot.py
-
+Select mesh to plot: (1)dipole (2)dual stubs (3)patch
+1
 ```
 
 **Examples:**
