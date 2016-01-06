@@ -21,7 +21,7 @@ PAN is the MoM (metchod of moment) Electromagnetic Numerical code for simlating 
 
 1. Retrieve git repository.
 ```
-git clone https://github.com/antopenrf/mom.git
+git clone https://github.com/antopenrf/pan.git
 ```
 
 2. Start the demo for half-wavelength dipole.  The simulated directivity is 2.08 dB, close to the theoretical number, 2.15dB.
