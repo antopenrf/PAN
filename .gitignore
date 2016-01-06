@@ -1,0 +1,8 @@
+*.png
+*.pyc
+mesh/*.pyc
+rwg/*.pyc
+field/*.pyc
+test/*.pyc
+pattern/*.pyc
+plotter/*.pyc
