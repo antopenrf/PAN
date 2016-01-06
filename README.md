@@ -15,6 +15,7 @@ PAN is the MoM (metchod of moment) Electromagnetic Numerical code for simlating 
 
 4. numpy
 
+5. pyhull
 
 **Usage:**
 
