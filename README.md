@@ -2,8 +2,6 @@
 
 PAN is the MoM (metchod of moment) Electromagnetic Numerical code for simlating planar antnena structure.  
 
-
-![alt tag](/results/dual_stub_densities.jpg)
 **Prerequisite:**
 
 1. Python 2.7.x
@@ -32,4 +30,20 @@ python demo_patch.py
 python demo_plot.py
 ```
 
+**Examples:**
+For simulating the dual stubs, use poly moudle to create the polygon as shown in demo_dualstubs.py.
+
+1. Mesh
+![mesh](/results/dual_stub_mesh.png)
+
+2. Current Density
+![current densities](/results/dual_stub_densities.png)
+
+3. 2D cuts
+xy
+![xy 2D cut](/results/dual_stub_xy.png)
+yz
+![yz 2D cut](/results/dual_stub_yz.png)
+zx
+![zx 2D cut](/results/dual_stub_zx.png)
 
