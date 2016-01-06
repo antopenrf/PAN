@@ -33,13 +33,17 @@ python demo_plot.py
 **Examples:**
 For simulating the dual stubs, use poly moudle to create the polygon as shown in demo_dualstubs.py.
 
-*Mesh
+1.Mesh
+
 ![mesh](/results/dual_stub_mesh.png)
 
-*Current Density
+2.Current Density
+
 ![current densities](/results/dual_stub_densities.png)
 
-*2D cuts
+
+3.2D cuts
+
 -xy
 ![xy 2D cut](/results/dual_stub_xy.png)
 -yz
