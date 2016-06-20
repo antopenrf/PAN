@@ -1,8 +1,8 @@
 ##*PAN*##
 
-PAN is the MoM (metchod of moment) Electromagnetic Numerical code for simlating planar antnena structure.  The code is still under development but can simulate many planar structures already.  Here is a list of features to develop.
+PAN is the MoM (method of moment) Electromagnetic Numerical code for simulating planar antenna structure.  The code is still under development but can simulate many planar structures already.  Here is a list of features to develop.
 1. GUI
-2. Add transmit alrorithm
+2. Add transmit algorithm
 3. Add current flow chart
 
 **Prerequisite:**
